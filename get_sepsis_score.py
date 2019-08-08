@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#-*- coding: UTF-8 -*- 
+#官方提交代码
 import numpy as np
 
 def get_sepsis_score(data, model):
